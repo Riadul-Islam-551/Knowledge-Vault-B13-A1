@@ -184,3 +184,30 @@ nav ul li a:hover {
   color: #5c5c5c;
   margin-top: 20px;
 }
+footer{
+  background-color: #001931;
+  color: white;
+}
+footer .upper-footer{
+  max-width: 1200px;
+  margin:0 auto;
+  /* border: 1px solid red; */
+  border-bottom: .5px solid #153858;
+  padding: 70px 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+footer .upper-footer p{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+footer .social-links ul li{
+  list-style-type: none;
+  display: inline;
+  margin: 5px;
+}
+footer .lower-footer{
+  text-align: center;
+  padding-bottom: 30px;
+}
