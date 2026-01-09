@@ -86,3 +86,15 @@ nav ul li a:hover{
   border: 1px solid #30B868;
   transition-duration: .3s;
 }
+.note{
+  max-width: 1200px;
+  margin: 50px auto;
+}
+.note .note-title{
+  text-align: center;
+}
+.note .note-title p{
+  margin: 15px 0 50px 0;
+  font-size: 12px;
+  color: rgb(105, 105, 105);
+}
